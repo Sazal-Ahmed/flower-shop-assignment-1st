@@ -6,7 +6,7 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
-    background-color: #e9d3d8;
+    background-color: #ffcccc;
 
 }
 .image{
@@ -31,3 +31,48 @@
     border-radius: 5px;
     margin-top: 20px;
 }
+
+/* Deal Section Start */
+
+.second-section{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: #f7f1e3;
+    height:100vh;
+
+}
+.tiltle-2{
+    font-size: 30px;
+    font-weight: bold;
+}
+.description-2{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.text2{
+    text-align: center;
+}
+.color{
+    color: #E55473;
+}
+
+/* Instagram section start */
+
+.Third-section{
+    text-align: center;
+    margin-top: 80px;
+}
+.flex-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+.img-item{
+    margin-right: 20px;
+}
+.images{
+    width: 225px;
+}
+
