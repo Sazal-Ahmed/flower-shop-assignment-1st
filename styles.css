@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.first-section{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #e9d3d8;
+
+}
+.image{
+    width:400px;
+    margin-top: 10px;
+
+}
+.tiltle{
+    font-size:45px ;
+    font-weight: bolder;
+}
+.description{
+    margin-top: 25px;
+    margin-bottom: 20px;
+    font-size: 15px;
+}
+.btn-1{
+    color: white;
+    background-color: #E55473;
+    border: none;
+    padding: 15px 40px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
