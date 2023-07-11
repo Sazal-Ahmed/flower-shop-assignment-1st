@@ -32,6 +32,57 @@
     margin-top: 20px;
 }
 
+/* features section starts */
+.featuure-section{
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.flex-container-1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+.img-item1{
+    margin-right: 20px;
+    
+}
+.images-1{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    width: 300px;
+    height: 370px;
+}
+.images-2{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    width: 300px;
+    height: 370px;
+}
+.images-3{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    width: 300px;
+    height: 370px;
+}
+.link{
+ color: #272727;
+text-align: center;
+font-weight: bolder;
+}
+
+/* Bonus section start */
+
+   .bonus-section{
+    display: flex;
+    justify-content: space-around;
+    background: rgba(39, 39, 39, 0.05);
+    padding: 40px;
+    margin: 0px 195px 80px 195px;
+    
+   }
+
 /* Deal Section Start */
 
 .second-section{
@@ -118,43 +169,4 @@
     font-style: normal;
     font-weight: 400;
 
-}
-/* features section starts */
-.featuure-section{
-    text-align: center;
-    margin-top: 80px;
-    margin-bottom: 80px;
-}
-.flex-container-1{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-top: 30px;
-}
-.img-item1{
-    margin-right: 20px;
-    
-}
-.images-1{
-    border-radius: 300px 300px 0px 0px;
-    background: rgba(167, 33, 98, 0.15);
-    width: 300px;
-    height: 370px;
-}
-.images-2{
-    border-radius: 300px 300px 0px 0px;
-    background: rgba(5, 151, 160, 0.15);
-    width: 300px;
-    height: 370px;
-}
-.images-3{
-    border-radius: 300px 300px 0px 0px;
-    background: rgba(71, 125, 17, 0.15);
-    width: 300px;
-    height: 370px;
-}
-.link{
- color: #272727;
-text-align: center;
-font-weight: bolder;
 }
