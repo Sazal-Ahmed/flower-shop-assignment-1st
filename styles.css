@@ -27,7 +27,7 @@
     color: white;
     background-color: #E55473;
     border: none;
-    padding: 15px 40px;
+    padding: 15px 35px;
     border-radius: 5px;
     margin-top: 20px;
 }
@@ -38,8 +38,7 @@
     display: flex;
     justify-content: space-evenly;
     align-items: center;
-    background-color: #f7f1e3;
-    height:100vh;
+    background: rgba(229, 84, 115, 0.05);
 
 }
 .tiltle-2{
@@ -76,3 +75,86 @@
     width: 225px;
 }
 
+/* Latest deals start*/
+.bg-img{
+    margin: 80px 180px 0px 180px ;
+}
+
+.Fourth-section{
+    text-align: center;
+    background-image: url('Rectangle\ 9.png');
+    background-size: cover;
+    padding:85px;
+}
+.field{
+    padding:10px;
+    width: 450px;
+    margin-right: 5px;
+}
+
+/* footer section */
+.foot-section{
+    text-align: center;
+    background: #111010;
+    padding: 95px;
+    margin-top: 80px;
+}
+.tiltle-3{
+    color: white;
+    font-size: 35px;
+    font-weight: bold;
+}
+.design{
+    color: #E55473;;
+}
+.description-3{
+    color: rgba(255, 255, 255, 0.90);
+    margin-top: 15px;
+    margin-bottom: 25px;
+
+}
+#owner{ 
+    color: rgba(255, 255, 255, 0.40);
+    font-style: normal;
+    font-weight: 400;
+
+}
+/* features section starts */
+.featuure-section{
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.flex-container-1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+.img-item1{
+    margin-right: 20px;
+    
+}
+.images-1{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    width: 300px;
+    height: 370px;
+}
+.images-2{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    width: 300px;
+    height: 370px;
+}
+.images-3{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    width: 300px;
+    height: 370px;
+}
+.link{
+ color: #272727;
+text-align: center;
+font-weight: bolder;
+}
